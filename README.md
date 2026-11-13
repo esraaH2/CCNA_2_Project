@@ -5,6 +5,8 @@ The project analyses a small company's flat, insecure network and proposes a seg
 
 📄 Full report: [`Network_project.docx`](Network_project.docx)
 
+🖧 Packet Tracer simulation: [`Project_CCNA2_final.pkt`](Project_CCNA2_final.pkt)
+
 ---
 
 ## 📌 Scenario
@@ -102,6 +104,14 @@ It has **40 staff** in four teams, working from a two-storey open-plan office (2
 - Switch ports assigned to their department VLANs
 - A **DHCP pool per VLAN**
 - **VLAN 99** for switch management
+
+---
+
+## ▶️ Open the Simulation
+
+1. Install [Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer) (free with a Cisco Networking Academy account).
+2. Download [`Project_CCNA2_final.pkt`](Project_CCNA2_final.pkt) and open it with **File → Open**.
+3. Click a device and open its **CLI** tab to inspect the configuration (for example `show vlan brief`, `show running-config`), or test connectivity between departments with **ping** from the PCs.
 
 ---
 
