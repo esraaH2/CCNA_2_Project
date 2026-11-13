@@ -110,9 +110,3 @@ It has **40 staff** in four teams, working from a two-storey open-plan office (2
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 `VLANs` · `802.1Q Trunking` · `STP` · `Router-on-a-Stick` · `DHCP` · `SSH` · `Switch Hardening` · `IP Addressing`
-
----
-
-## 👩‍💻 Author
-
-**[Esraa Halboup](https://github.com/esraaH2)**: Computer Science (Networks), UKM
